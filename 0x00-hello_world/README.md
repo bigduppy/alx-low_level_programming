@@ -1,1 +1,1 @@
-puts c
+use printf
