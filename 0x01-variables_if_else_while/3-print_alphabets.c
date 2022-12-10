@@ -1,4 +1,10 @@
 #include <stdio.h>
+/**
+ * main - main block
+ * Description: print the alphabet in lowercase
+ * and in uppercase, followed by a new line
+ * Return: o
+ */
 int main(void)
 {
 	char c - 'a';
