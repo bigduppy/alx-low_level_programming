@@ -5,8 +5,9 @@
 int main(void)
 
 {
-	    std::cout << "_putchar\n";
 
-	    return (0);
+	std::cout << "_putchar\n";
+
+	return (0);
 
 }
