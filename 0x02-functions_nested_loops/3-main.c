@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include "main h"
+=======
+#include "main.h"
+>>>>>>> dd1342b5d3f1efac7ddc1d66d0739f9553b2926a
 
 /**
  * main - check the code.
