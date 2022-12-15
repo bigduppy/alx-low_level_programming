@@ -3,13 +3,13 @@
 
 /**
  * mul - multiplies two integers
- * @x - First integer
- * @y - Second integer
- * Return: The result of multiplying param x and y
+ * @a - First integer
+ * @b - Second integer
+ * Return: The result of multiplying param a and b
  */
 
-int mul(int x, innt y)
+int mul(int a, int b)
 
 {
-	return (x * y);
+	return (a * b);
 }
