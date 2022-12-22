@@ -5,7 +5,7 @@
  * in a string to uppercase
  * @str: string to be changed
  * Return: a poinnter to the changed string
- */i
+ */
 char *string_toupper(char *str)
 
 {
