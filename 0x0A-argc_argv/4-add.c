@@ -58,7 +58,7 @@ sum += str_to_int;
 
 else
 {
-printf("Error\n")
+printf("Error\n")6;
 return (1);
 }
 
